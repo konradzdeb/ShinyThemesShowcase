@@ -8,11 +8,14 @@ Imports:
     config,
     golem,
     shiny,
-    processx
+    processx,
+    nomisr (>= 0.4.3)
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.0
 URL: https://github.com/konradzdeb/ShinyThemesShowcase
 BugReports: https://github.com/konradzdeb/ShinyThemesShowcase/issues
 Suggests: 
     testthat
+Depends: 
+    shinymaterial
