@@ -11,7 +11,7 @@ app_ui <- function(request) {
     # List the first level UI elements here
     material_page(
       title = "Material Design",
-      primary_theme_color = "#add8e6",
+      primary_theme_color = "#2c7891",
       secondary_theme_color = "red",
       material_side_nav(
         fixed = TRUE,
