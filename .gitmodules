@@ -1,0 +1,6 @@
+[submodule "MaterialDesignExample"]
+	path = MaterialDesignExample
+	url = https://github.com/konradzdeb/MaterialDesignExample.git
+[submodule "ArgonExample"]
+	path = ArgonExample
+	url = https://github.com/konradzdeb/ArgonExample.git
