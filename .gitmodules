@@ -4,3 +4,6 @@
 [submodule "ArgonExample"]
 	path = ArgonExample
 	url = https://github.com/konradzdeb/ArgonExample.git
+[submodule "DashboardBootstrap"]
+	path = DashboardBootstrap
+	url = https://github.com/konradzdeb/DashboardBootstrap.git
