@@ -7,3 +7,6 @@
 [submodule "DashboardBootstrap"]
 	path = DashboardBootstrap
 	url = https://github.com/konradzdeb/DashboardBootstrap.git
+[submodule "DashboardCustomTheme"]
+	path = DashboardCustomTheme
+	url = https://github.com/konradzdeb/DashboardCustomTheme.git
